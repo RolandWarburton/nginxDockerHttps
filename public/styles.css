@@ -1,0 +1,13 @@
+* {
+	max-width: 100%;
+}
+
+body {
+	width: 70ch;
+	margin: 0 auto;
+	padding: 20;
+}
+
+#app {
+	padding: 20px;
+}
